@@ -14,3 +14,7 @@
   link: /contact/
   new_window: false
   highlight: false
+- name: Fork me
+  link: https://github.com/lexoyo/Monitoshi
+  new_window: true
+  highlight: true
