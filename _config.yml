@@ -2,7 +2,7 @@
 # Site
 
 title: Monitoshi, be notified when your site is down
-url: "https://monitoshi.com"
+url: "http://monitoshi.com"
 baseurl:
 google_analytics_key: UA-19608894-28
 google_maps_javascript_api_key:
