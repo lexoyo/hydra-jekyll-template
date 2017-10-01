@@ -1,3 +1,16 @@
+.features {
+    margin: 100px auto;
+    width: 400px;
+    max-width: 100%;
+    padding: 0;
+	li {
+    	list-style-type: none;
+        font-size: large;
+        line-height: 3;
+    }
+}
+
+
 .staff {
 	padding: 0;
 	list-style: none;
