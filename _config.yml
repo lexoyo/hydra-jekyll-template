@@ -2,23 +2,23 @@
 # Site
 
 title: Monitoshi, be notified when your site is down
-url: "http://lexoyo.me/hydra-jekyll-template"
+url: "https://monitoshi.com"
 baseurl:
-google_analytics_key:
+google_analytics_key: UA-19608894-28
 google_maps_javascript_api_key:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product marketing template for Jekyll.
-author:
-  name:
+description:Free Website Monitoring. Be notified when your site is down.
+author: lexoyo
+  name: Alex Hoyau
   email:
-  twitter: # twitter username without the @ symbol
+  twitter: lexoyo
 social:
-  name: Hydra Template
+  name: Monitoshi
   links:
-    - https://github.com/CloudCannon/hydra-jekyll-template
+    - https://github.com/lexoyo/Monitoshi
 
 # -----
 # Build
@@ -89,13 +89,8 @@ exclude:
 
 social_icons:
   - Facebook
-  - Google Plus
-  - Instagram
   - LinkedIn
-  - Pinterest
-  - Tumblr
   - Twitter
-  - YouTube
   - RSS
 
 _comments:
