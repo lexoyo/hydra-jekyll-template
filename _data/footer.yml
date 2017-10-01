@@ -8,6 +8,11 @@
   - name: Contact
     link: /contact/
 - links:
+  - name: Contribute
+    link: https://github.com/lexoyo/Monitoshi
+  - name: Source code
+    link: https://github.com/lexoyo/Monitoshi
+- links:
   - name: Twitter
     link: https://twitter.com/hashtag/monitoshi
     social_icon: Twitter
