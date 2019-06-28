@@ -1,7 +1,7 @@
 ---
 notPage:
   - /admin/data.json
-layout: 
+layout: none
 
 // "data": [
 //   {% for item in site.data %}
